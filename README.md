@@ -379,3 +379,4 @@ Tools that help with git commit messages:
   * [conventional-changelog: generate changelogs and release notes from a project's commit messages and metadata](https://github.com/conventional-changelog/conventional-changelog)
 
   [git commit template]: https://github.com/joelparkerhenderson/git_commit_template
+  
